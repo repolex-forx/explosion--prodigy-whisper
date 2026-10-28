@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/prodigy-whisper/commit/2b6179e8c352f8af23bd5c1d33636a091e29c427",
       "git:hexsha": "2b6179e8c352f8af23bd5c1d33636a091e29c427",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
