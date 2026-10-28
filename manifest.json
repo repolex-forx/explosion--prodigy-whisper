@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "prodigy-whisper",
+  "versions": [
+    {
+      "commit": "2b6179e8c352f8af23bd5c1d33636a091e29c427",
+      "parsed_at": "2026-10-28T12:07:57.582550+00:00",
+      "filetree": "filetree/2b6179e8c352f8af23bd5c1d33636a091e29c427.nq.gz",
+      "blobs": [
+        "blob/2f141c115ddc6ac05b35e183d45ba5039d3d283f.nq.gz",
+        "blob/7f4e1d5cf3ba2fa939bde3c58fdf4ca84fbad975.nq.gz",
+        "blob/a986e64a008811a0df0a6386386b9b7f3ed8dc0c.nq.gz",
+        "blob/9c61ecd6e6de43072bdd1f509f8093d1f4597c68.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/3e386f564dbd27c3616ad44b64520bf7b44582ae.nq.gz",
+        "blob/94aaefb570e06d7246729cbd0a6e101a0906da7d.nq.gz",
+        "blob/57d05e7cd20c0d6d98585f1e333a37e910dadddb.nq.gz",
+        "blob/6dbd43fbd7f530f3f0c554c63605be7e3d220485.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/9bee21c389b13bc633c418c3365ed908ab9f7c85.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
