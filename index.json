@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "prodigy-whisper",
+  "versions": [
+    {
+      "commit": "2b6179e8c352f8af23bd5c1d33636a091e29c427",
+      "tag": "",
+      "parsed_at": "2026-10-28T12:10:03.036410+00:00"
+    }
+  ]
+}
